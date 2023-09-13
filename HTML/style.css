@@ -2,3 +2,7 @@ figcaption {
     text-align: center;
 }
 
+#code {
+    display: flex;
+    justify-content: center;
+}
