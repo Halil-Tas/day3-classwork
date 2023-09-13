@@ -10,10 +10,14 @@ body div > span {
   visibility: hidden;
 }
 
-.right p {
+/* .right p {
     display: none;
-}
+} */
 
 p {
     color: red;
+}
+
+#bg {
+  background-color: gold;
 }
