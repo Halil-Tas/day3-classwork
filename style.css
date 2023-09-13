@@ -9,3 +9,11 @@ h1{
 body div > span {
   visibility: hidden;
 }
+
+.right p {
+    display: none;
+}
+
+p {
+    color: red;
+}
